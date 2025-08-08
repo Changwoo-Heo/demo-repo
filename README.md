@@ -2,7 +2,6 @@
 
 Demo for Learning Github!
 
-
 ## Subheader
 
 Watch tutorial on Youtube
