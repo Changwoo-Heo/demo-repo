@@ -2,7 +2,10 @@
 
 Demo for Learning Github!
 
+## Subheader
 
-## subheader
+Watch tutorial on Youtube
 
-Watch tutorial on YouTube
+## Local Development
+
+1. Open index.html in your browser.
